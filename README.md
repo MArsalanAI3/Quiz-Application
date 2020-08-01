@@ -1,4 +1,4 @@
-# Quiz-Application Deployed on Firebase using HTML5 , CSS , Bootstrap & Javascript
+# Quiz-Application Deployed on Firebase using HTML5 , CSS & Javascript
 
 
 [--> Navigate to Calculator Application](https://quiz-application-31e9b.web.app/)
