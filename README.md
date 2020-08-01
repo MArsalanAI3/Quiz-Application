@@ -1,7 +1,7 @@
 # Quiz-Application Deployed on Firebase using HTML5 , CSS & Javascript
 
 
-[--> Navigate to Calculator Application](https://quiz-application-31e9b.web.app/)
+[--> Navigate to Quiz Application](https://quiz-application-31e9b.web.app/)
 
 ### FILES DISCRIPTION:-
 
